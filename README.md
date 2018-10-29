@@ -8,7 +8,7 @@ Titles are pretty self-descriptive.
 
 # Usage
 None of the scripts sends transaction to any node, instead they print the hexadecimal value which can be sent to any node.
-For example it can be broadcasted through [https://etherscan.io/pushTx]. 
+For example it can be broadcasted through https://etherscan.io/pushTx. 
 
 Each script signs transaction, so you need to know the private key of the send. Other parameters as gas price and gas
 value and nonce should be also entered manually. The examples of how all the fields look like (address, private key,
