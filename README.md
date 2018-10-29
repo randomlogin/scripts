@@ -2,7 +2,7 @@
 Here are some scripts I'm using myself. 
 
 Titles are pretty self-descriptive.
-1. One of them justs sends the ether from address. 
+1. One of them just sends the ether from address. 
 2. The second submits a transaction to the multisignature wallet to send ether from this multisignature wallet.
 3. The third sumbits a transaction to the mulsitignature wallet to send tokens from this mulsitignature wallet.
 
